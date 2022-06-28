@@ -236,7 +236,7 @@ class Website:
         if missing_viewport_tag:
             self.issues.append('* Missing viewport meta tag in `<head>`, needed to tell browser it\'s responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`')
         if has_sideways_scroll:
-            self.issues.append(f"* Has sideways scrollbars in mobile version – check padding, margins, image widths")
+            self.issues.append(f"* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version")
 
         if tiny_text:
             self.issues.append("* Minimum font size should be 12px, enlarge text in Illustrator")
@@ -257,6 +257,10 @@ class Website:
             self.issues.append("* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)")
             for key, values in missing_fonts.items():
                 self.issues.append(f"    * `{key}` font not found, used in {len(values)} text objects. Example: _{', '.join([v['text'] for v in values[:3]])}_")
+
+        github_link = self.page.query_selector("a[href*='github.com']")
+        if not github_link:
+            self.issues.append("* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)")
 
 websites = [w for w in Path("websites.txt").read_text().split("\n") if w != ""]
 
