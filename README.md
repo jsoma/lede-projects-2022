@@ -47,8 +47,8 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `Asset 50.svg` missing `alt` tag
     * Image `Asset 52.svg` missing `alt` tag
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -65,6 +65,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://amanda-chn.github.io/NYC-Parks/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `8,229 acres of green space` is too small at 10px
     * Text `7,664 acres of green space` is too small at 9px
@@ -75,15 +76,15 @@ Along with quick checks to make sure your pages are looking their best!
     * Text `7,664 acres of green space` is too small at 9px
     * *and 254 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Community Park` overlaps with `Jointly` at screen width 400
    * Text `Community Park` overlaps with `Operated` at screen width 400
-   * Text `Nature Area` overlaps with `Parkway` at screen width 400
+   * Text `Community Park` overlaps with `Playground` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
+   * Text `Playground` overlaps with `Undeveloped` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Neighborhood` overlaps with `Nature` at screen width 400
-   * Text `Recreational` overlaps with `Neighborhood` at screen width 400
-   * Text `Community Park` overlaps with `Jointly` at screen width 900
-   * *and 16 more*
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+   * Text `Neighborhood` overlaps with `Managed Sites` at screen width 400
+   * *and 19 more*
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -100,7 +101,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://atd124.github.io/Columbia-Lede-Project/**
 
 * Change URL to be all in lowercase
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -117,7 +118,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://ayukaak.github.io/ClimateChangeInTanzania/**
 
 * Change URL to be all in lowercase
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -134,8 +135,8 @@ Along with quick checks to make sure your pages are looking their best!
 **https://bryanbaker-11.github.io/mlb-shift-project1/**
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -152,7 +153,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://cpohkwan.github.io/project-website/**
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -169,7 +170,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://dabravs.github.io/pokemon-project/**
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -185,7 +186,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://danielle-li.github.io/climbing-routes/**
 
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -205,7 +206,7 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `logo.png` missing `alt` tag
 * Move `project.html` into a folder called `project`, then rename the file `index.html`. That way the project can be found at **/project** instead of **/project.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -223,7 +224,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 * Move `Website/Beerpackaging.html` into a folder called `Beerpackaging`, then rename the file `index.html`. That way the project can be found at **/Beerpackaging** instead of **/Beerpackaging.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to be all in lowercase
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -239,7 +240,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://gabrielacarrasquillo.github.io/sargassum-story/**
 
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -264,8 +265,8 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `types.svg` missing `alt` tag
     * Image `reasons.svg` missing `alt` tag
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -284,7 +285,7 @@ Along with quick checks to make sure your pages are looking their best!
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `62219986_356090471706116_7564854086038716416_n.jpg` missing `alt` tag
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -303,7 +304,7 @@ Along with quick checks to make sure your pages are looking their best!
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -337,7 +338,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://onlyandrewn.github.io/project-01/**
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -354,7 +355,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://petebrown.github.io/project-01/**
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -387,7 +388,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://rlwin.github.io/generic.html**
 
 * Move `generic.html` into a folder called `generic`, then rename the file `index.html`. That way the project can be found at **/generic** instead of **/generic.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -403,8 +404,8 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://sharmaraghavi.github.io/income/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -423,7 +424,7 @@ Along with quick checks to make sure your pages are looking their best!
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -440,7 +441,7 @@ Along with quick checks to make sure your pages are looking their best!
 **https://stanleydai.github.io/nba_rookies_age/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -456,7 +457,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://tengj98.github.io/covidbankruptcy/**
 
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
@@ -472,5 +473,5 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://terril68.github.io/animals-adoptions-during-the-pandemic/**
 
-* Add a link to the repository with your source code/data/analysis: [tutorial here](https://jonathansoma.com/fancy-github/), [example here](https://github.com/ilenapeng/stevens-creek) from [this story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
