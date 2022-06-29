@@ -196,7 +196,6 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `types.svg` missing `alt` tag
     * Image `reasons.svg` missing `alt` tag
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -223,7 +222,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[GitHub - torythetortle/project4clmba1: here ya go!](https://github.com/torythetortle/project4clmba1.git)|[![mobile](screenshots/github.com/torythetortle_project4clmba1.git_index.html-mobile-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/torythetortle_project4clmba1.git_index.html-medium-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-medium-full.jpg)|[![wide](screenshots/github.com/torythetortle_project4clmba1.git_index.html-wide-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-wide-full.jpg)|
+|[GitHub - torythetortle/4clmba1: here ya go!](https://github.com/torythetortle/project4clmba1.git)|[![mobile](screenshots/github.com/torythetortle_project4clmba1.git_index.html-mobile-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/torythetortle_project4clmba1.git_index.html-medium-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-medium-full.jpg)|[![wide](screenshots/github.com/torythetortle_project4clmba1.git_index.html-wide-thumb.jpg)](screenshots/github.com/torythetortle_project4clmba1.git_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
