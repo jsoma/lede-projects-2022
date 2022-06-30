@@ -95,14 +95,17 @@ Along with quick checks to make sure your pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Are Women Really Bad At Chess? Why Does Data Make Us Believe So?](https://ramanshreya.github.io/Female-Chess-Players/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-mobile-thumb.jpg)](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-mobile-full.jpg)|[![medium](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-medium-thumb.jpg)](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-medium-full.jpg)|[![wide](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-wide-thumb.jpg)](screenshots/ramanshreya.github.io/Female-Chess-Players_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://ramanshreya.github.io/Female-Chess-Players/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://ramanshreya.github.io/Female-Chess-Players/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 
 
