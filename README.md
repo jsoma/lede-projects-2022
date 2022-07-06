@@ -290,7 +290,6 @@ Along with quick checks to make sure your pages are looking their best!
 **https://amanda-chn.github.io/NYC-Parks/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `8,229 acres of green space` is too small at 10px
     * Text `7,664 acres of green space` is too small at 9px
@@ -301,14 +300,14 @@ Along with quick checks to make sure your pages are looking their best!
     * Text `7,664 acres of green space` is too small at 9px
     * *and 254 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Community Park` overlaps with `Jointly` at screen width 400
    * Text `Community Park` overlaps with `Operated` at screen width 400
-   * Text `Community Park` overlaps with `Playground` at screen width 400
+   * Text `Nature Area` overlaps with `Parkway` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Playground` overlaps with `Undeveloped` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Neighborhood` overlaps with `Managed Sites` at screen width 400
-   * *and 19 more*
+   * Text `Neighborhood` overlaps with `Nature` at screen width 400
+   * Text `Recreational` overlaps with `Neighborhood` at screen width 400
+   * Text `Community Park` overlaps with `Jointly` at screen width 900
+   * *and 16 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -559,15 +558,17 @@ Along with quick checks to make sure your pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[My Project](https://cpohkwan.github.io/project-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/cpohkwan.github.io/project-website_index.html-mobile-thumb.jpg)](screenshots/cpohkwan.github.io/project-website_index.html-mobile-full.jpg)|[![medium](screenshots/cpohkwan.github.io/project-website_index.html-medium-thumb.jpg)](screenshots/cpohkwan.github.io/project-website_index.html-medium-full.jpg)|[![wide](screenshots/cpohkwan.github.io/project-website_index.html-wide-thumb.jpg)](screenshots/cpohkwan.github.io/project-website_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://cpohkwan.github.io/project-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://cpohkwan.github.io/project-website/**
 
+* Could not access the page - if you moved it, let me know
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 
 
