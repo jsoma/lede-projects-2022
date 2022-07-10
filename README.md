@@ -295,14 +295,16 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[NATO ALLIES PLEDGE TO SPEND MORE ON DEFENSE](https://atd124.github.io/columbia-lede/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/atd124.github.io/columbia-lede_index.html-mobile-thumb.jpg)](screenshots/atd124.github.io/columbia-lede_index.html-mobile-full.jpg)|[![medium](screenshots/atd124.github.io/columbia-lede_index.html-medium-thumb.jpg)](screenshots/atd124.github.io/columbia-lede_index.html-medium-full.jpg)|[![wide](screenshots/atd124.github.io/columbia-lede_index.html-wide-thumb.jpg)](screenshots/atd124.github.io/columbia-lede_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://atd124.github.io/columbia-lede/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://atd124.github.io/columbia-lede/**
 
-* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+* Could not access the page - if you moved it, let me know
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 
 
