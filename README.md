@@ -457,7 +457,6 @@ No issues found! 🎉
 **https://stanleydai.github.io/nba_rookies_age/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
 
