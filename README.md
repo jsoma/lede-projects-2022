@@ -16,13 +16,14 @@ Along with quick checks to make sure your pages are looking their best!
 * [elizabethkli.github.io](#elizabethkligithubio)
 * [erichbuergler.github.io](#erichbuerglergithubio)
 * [gabrielacarrasquillo.github.io](#gabrielacarrasquillogithubio)
-* [github.com](#githubcom)
 * [luyi-eve.github.io](#luyi-evegithubio)
 * [mcoloncruz.github.io](#mcoloncruzgithubio)
 * [miotomita.github.io](#miotomitagithubio)
 * [mvol4ok.github.io](#mvol4okgithubio)
+* [nkalanga.github.io](#nkalangagithubio)
 * [obverter.github.io](#obvertergithubio)
 * [onlyandrewn.github.io](#onlyandrewngithubio)
+* [oparra06.github.io](#oparra06githubio)
 * [petebrown.github.io](#petebrowngithubio)
 * [ramanshreya.github.io](#ramanshreyagithubio)
 * [rlwin.github.io](#rlwingithubio)
@@ -90,7 +91,6 @@ Along with quick checks to make sure your pages are looking their best!
 **https://amanda-chn.github.io/NYC-Parks/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `8,229 acres of green space` is too small at 10px
     * Text `7,664 acres of green space` is too small at 9px
@@ -101,14 +101,14 @@ Along with quick checks to make sure your pages are looking their best!
     * Text `7,664 acres of green space` is too small at 9px
     * *and 254 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Community Park` overlaps with `Jointly` at screen width 400
    * Text `Community Park` overlaps with `Operated` at screen width 400
-   * Text `Community Park` overlaps with `Playground` at screen width 400
+   * Text `Nature Area` overlaps with `Parkway` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Playground` overlaps with `Undeveloped` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Neighborhood` overlaps with `Managed Sites` at screen width 400
-   * *and 19 more*
+   * Text `Neighborhood` overlaps with `Nature` at screen width 400
+   * Text `Recreational` overlaps with `Neighborhood` at screen width 400
+   * Text `Community Park` overlaps with `Jointly` at screen width 900
+   * *and 16 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://amanda-chn.github.io/spices/**
@@ -276,6 +276,7 @@ Along with quick checks to make sure your pages are looking their best!
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[This is how often each Pokémon type shows up in Gen 1](https://dabravs.github.io/pokemon-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/dabravs.github.io/pokemon-project_index.html-mobile-thumb.jpg)](screenshots/dabravs.github.io/pokemon-project_index.html-mobile-full.jpg)|[![medium](screenshots/dabravs.github.io/pokemon-project_index.html-medium-thumb.jpg)](screenshots/dabravs.github.io/pokemon-project_index.html-medium-full.jpg)|[![wide](screenshots/dabravs.github.io/pokemon-project_index.html-wide-thumb.jpg)](screenshots/dabravs.github.io/pokemon-project_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://dabravs.github.io/project-2-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -284,6 +285,13 @@ Along with quick checks to make sure your pages are looking their best!
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+
+**https://dabravs.github.io/project-2-website/**
+
+* Could not access the page - if you moved it, let me know
+* Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 
 
@@ -373,13 +381,13 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://gabrielacarrasquillo.github.io/beachfronts/project-website/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://gabrielacarrasquillo.github.io/beachfronts/project-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[2022 is on track to break sargassum production records in the Atlantic Ocean](https://gabrielacarrasquillo.github.io/sargassum-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-full.jpg)|[![medium](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-full.jpg)|[![wide](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://gabrielacarrasquillo.github.io/beachfronts/project-website/index.html**
+**https://gabrielacarrasquillo.github.io/beachfronts/project-website/**
 
 * Could not access the page - if you moved it, let me know
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
@@ -389,47 +397,6 @@ No issues found! 🎉
 **https://gabrielacarrasquillo.github.io/sargassum-story/**
 
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
-
-
-
-## github.com
-
-
-|url|mobile|medium|wide|
-|---|---|---|---|
-|[GitHub - dabravs/project-2-website: A project on Amtrak's year-over-year losses and customer grosses for the Lede program at Columbia University](https://github.com/dabravs/project-2-website)|[![mobile](screenshots/github.com/dabravs_project-2-website_index.html-mobile-thumb.jpg)](screenshots/github.com/dabravs_project-2-website_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/dabravs_project-2-website_index.html-medium-thumb.jpg)](screenshots/github.com/dabravs_project-2-website_index.html-medium-full.jpg)|[![wide](screenshots/github.com/dabravs_project-2-website_index.html-wide-thumb.jpg)](screenshots/github.com/dabravs_project-2-website_index.html-wide-full.jpg)|
-|[Page not found · GitHub · GitHub](https://github.com/NKalanga/Mat_South_COVID_Vaccination_Data)|request failed|request failed|request failed|
-|[GitHub - onlyandrewn/tour-de-france: How has the Tour de France changed in the last 100 years?](https://github.com/onlyandrewn/tour-de-france)|[![mobile](screenshots/github.com/onlyandrewn_tour-de-france_index.html-mobile-thumb.jpg)](screenshots/github.com/onlyandrewn_tour-de-france_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/onlyandrewn_tour-de-france_index.html-medium-thumb.jpg)](screenshots/github.com/onlyandrewn_tour-de-france_index.html-medium-full.jpg)|[![wide](screenshots/github.com/onlyandrewn_tour-de-france_index.html-wide-thumb.jpg)](screenshots/github.com/onlyandrewn_tour-de-france_index.html-wide-full.jpg)|
-|[Page not found · GitHub · GitHub](https://github.com/oparra06/Oscar-Parra-Lede-Project)|request failed|request failed|request failed|
-|[GitHub - smeana5/us-mexico-gasoline-trade: Analysis of the main companies importing fuel into Mexico from the US](https://github.com/smeana5/us-mexico-gasoline-trade)|[![mobile](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-mobile-thumb.jpg)](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-medium-thumb.jpg)](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-medium-full.jpg)|[![wide](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-wide-thumb.jpg)](screenshots/github.com/smeana5_us-mexico-gasoline-trade_index.html-wide-full.jpg)|
-
-
-### Automatic Checks
-
-**https://github.com/dabravs/project-2-website**
-
-* Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-
-**https://github.com/NKalanga/Mat_South_COVID_Vaccination_Data**
-
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
-
-**https://github.com/onlyandrewn/tour-de-france**
-
-No issues found! 🎉
-
-**https://github.com/oparra06/Oscar-Parra-Lede-Project**
-
-* Could not access the page - if you moved it, let me know
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
-
-**https://github.com/smeana5/us-mexico-gasoline-trade**
-
-No issues found! 🎉
 
 
 
@@ -528,26 +495,48 @@ No issues found! 🎉
 
 
 
+## nkalanga.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Site not found · GitHub Pages](https://NKalanga.github.io/Mat_South_COVID_Vaccination_Data/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+
+
+### Automatic Checks
+
+**https://NKalanga.github.io/Mat_South_COVID_Vaccination_Data/**
+
+* Could not access the page - if you moved it, let me know
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
+
+
+
 ## obverter.github.io
 
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Complete Games Are Done  obvertɘr is Ben Elliott](https://obverter.github.io/complete-games)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/obverter.github.io/complete-games_index.html-mobile-thumb.jpg)](screenshots/obverter.github.io/complete-games_index.html-mobile-full.jpg)|[![medium](screenshots/obverter.github.io/complete-games_index.html-medium-thumb.jpg)](screenshots/obverter.github.io/complete-games_index.html-medium-full.jpg)|[![wide](screenshots/obverter.github.io/complete-games_index.html-wide-thumb.jpg)](screenshots/obverter.github.io/complete-games_index.html-wide-full.jpg)|
-|[Turns Out: Size Doesn’t Really Matter in the MLB  obvertɘr is Ben Elliott](https://obverter.github.io/heavy-hitters)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/obverter.github.io/heavy-hitters_index.html-mobile-thumb.jpg)](screenshots/obverter.github.io/heavy-hitters_index.html-mobile-full.jpg)|[![medium](screenshots/obverter.github.io/heavy-hitters_index.html-medium-thumb.jpg)](screenshots/obverter.github.io/heavy-hitters_index.html-medium-full.jpg)|[![wide](screenshots/obverter.github.io/heavy-hitters_index.html-wide-thumb.jpg)](screenshots/obverter.github.io/heavy-hitters_index.html-wide-full.jpg)|
+|[obvertɘr is Ben Elliott  I’m an overenthusiastic data herder who spends too much time worrying and/or writing about, among other things, weird books and millionaires standing around outside in their pajamas. In my free time I enjoy collecting hobbies, giving up on personal projects, and frisbeeing my dog into the Shadow Realm.](https://obverter.github.io/complete-games/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[obvertɘr is Ben Elliott  I’m an overenthusiastic data herder who spends too much time worrying and/or writing about, among other things, weird books and millionaires standing around outside in their pajamas. In my free time I enjoy collecting hobbies, giving up on personal projects, and frisbeeing my dog into the Shadow Realm.](https://obverter.github.io/heavy-hitters/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
-**https://obverter.github.io/complete-games**
+**https://obverter.github.io/complete-games/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 
-**https://obverter.github.io/heavy-hitters**
+**https://obverter.github.io/heavy-hitters/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 
 
 
@@ -557,6 +546,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Are tornadoes in the U.S. becoming more frequent and more intense?](https://onlyandrewn.github.io/project-01/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/onlyandrewn.github.io/project-01_index.html-mobile-thumb.jpg)](screenshots/onlyandrewn.github.io/project-01_index.html-mobile-full.jpg)|[![medium](screenshots/onlyandrewn.github.io/project-01_index.html-medium-thumb.jpg)](screenshots/onlyandrewn.github.io/project-01_index.html-medium-full.jpg)|[![wide](screenshots/onlyandrewn.github.io/project-01_index.html-wide-thumb.jpg)](screenshots/onlyandrewn.github.io/project-01_index.html-wide-full.jpg)|
+|[How has the Tour de France changed in the last 100 years?](https://onlyandrewn.github.io/tour-de-france/)|[![mobile](screenshots/onlyandrewn.github.io/tour-de-france_index.html-mobile-thumb.jpg)](screenshots/onlyandrewn.github.io/tour-de-france_index.html-mobile-full.jpg)|[![medium](screenshots/onlyandrewn.github.io/tour-de-france_index.html-medium-thumb.jpg)](screenshots/onlyandrewn.github.io/tour-de-france_index.html-medium-full.jpg)|[![wide](screenshots/onlyandrewn.github.io/tour-de-france_index.html-wide-thumb.jpg)](screenshots/onlyandrewn.github.io/tour-de-france_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -565,6 +555,32 @@ No issues found! 🎉
 
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+
+**https://onlyandrewn.github.io/tour-de-france/**
+
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `NYTFranklin-Bold` font not found, used in 8 text objects. Example: _2010s, 1900s, 2010s_
+    * `NYTFranklin-Medium` font not found, used in 8 text objects. Example: _24.94 m.p.h., 15.83 m.p.h., 24.94 m.p.h._
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+
+
+
+## oparra06.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Site not found · GitHub Pages](https://oparra06.github.io/Oscar-Parra-Lede-Project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+
+
+### Automatic Checks
+
+**https://oparra06.github.io/Oscar-Parra-Lede-Project/**
+
+* Could not access the page - if you moved it, let me know
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 
 
@@ -658,6 +674,7 @@ No issues found! 🎉
    * Text `0%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
+   * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -685,6 +702,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[fifa-selection-2022/index.html](https://smeana5.github.io/fifa-selection-2022/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-full.jpg)|
+|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -692,6 +710,19 @@ No issues found! 🎉
 **https://smeana5.github.io/fifa-selection-2022/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
+
+**https://smeana5.github.io/us-mexico-gasoline-trade/**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
+   * Text `Chart:` overlaps with `​ ​` at screen width 900
+   * Text `Chart:` overlaps with `By Sergio Meana` at screen width 900
+   * Text `​ ​` overlaps with `By Sergio Meana` at screen width 900
+   * Text `​ ​` overlaps with `•` at screen width 900
+   * Text `​ ​` overlaps with `​ ​` at screen width 900
+   * Text `​ ​` overlaps with `Source` at screen width 900
+   * *and 32 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
