@@ -13,6 +13,7 @@ https://carolinaszv.github.io/1994-us-world-cup-attendance-record/
 https://cpohkwan.github.io/food-inflation/
 https://cpohkwan.github.io/johnny_depp_amber_heard/
 https://dabravs.github.io/pokemon-project/
+https://dabravs.github.io/project-2-website/
 https://danielle-li.github.io/climbing-routes/
 https://danielle-li.github.io/money-diaries/
 https://danihisp.github.io/olympics/
@@ -21,11 +22,6 @@ https://erichbuergler.github.io/food-recalls/
 https://erichbuergler.github.io/Website/Beerpackaging.html
 https://gabrielacarrasquillo.github.io/beachfronts/project-website/
 https://gabrielacarrasquillo.github.io/sargassum-story/
-https://github.com/dabravs/project-2-website/
-https://github.com/NKalanga/Mat_South_COVID_Vaccination_Data/
-https://github.com/onlyandrewn/tour-de-france/
-https://github.com/oparra06/Oscar-Parra-Lede-Project/
-https://github.com/smeana5/us-mexico-gasoline-trade/
 https://luyi-eve.github.io/cool-it-newyorkers/
 https://luyi-eve.github.io/project-one/
 https://mcoloncruz.github.io/housing/
@@ -33,9 +29,12 @@ https://mcoloncruz.github.io/project-femicides/
 https://miotomita.github.io/japan-on-a-tightrope/
 https://miotomita.github.io/Lede_project1/
 https://mvol4ok.github.io/
+https://NKalanga.github.io/Mat_South_COVID_Vaccination_Data/
 https://obverter.github.io/complete-games/
 https://obverter.github.io/heavy-hitters/
 https://onlyandrewn.github.io/project-01/
+https://onlyandrewn.github.io/tour-de-france/
+https://oparra06.github.io/Oscar-Parra-Lede-Project/
 https://petebrown.github.io/project-01/
 https://ramanshreya.github.io/beef-exports-and-dairy-industry-in-india/
 https://ramanshreya.github.io/female-chess-players/
@@ -43,6 +42,7 @@ https://rlwin.github.io/project1/project1.html
 https://rlwin.github.io/project2/project2.html
 https://sharmaraghavi.github.io/income/
 https://smeana5.github.io/fifa-selection-2022/
+https://smeana5.github.io/us-mexico-gasoline-trade/
 https://stanleydai.github.io/himalaya_authors/
 https://stanleydai.github.io/nba_rookies_age/
 https://tengj98.github.io/covidbankruptcy/
