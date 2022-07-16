@@ -123,7 +123,7 @@ Along with quick checks to make sure your pages are looking their best!
    * Text `curry leaves` overlaps with `five spice` at screen width 400
    * Text `cayenne` overlaps with `cilantro` at screen width 400
    * Text `coriander` overlaps with `cumin` at screen width 400
-   * *and 23 more*
+   * *and 71 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Gill Sans Nova"` font not found, used in 257 text objects. Example: _Indian, Middle Eastern, Mexican_
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
