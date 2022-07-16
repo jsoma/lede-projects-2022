@@ -717,13 +717,13 @@ No issues found! 🎉
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
-   * Text `Chart:` overlaps with `​ ​` at screen width 900
-   * Text `Chart:` overlaps with `By Sergio Meana` at screen width 900
-   * Text `​ ​` overlaps with `By Sergio Meana` at screen width 900
-   * Text `​ ​` overlaps with `•` at screen width 900
-   * Text `​ ​` overlaps with `​ ​` at screen width 900
-   * Text `​ ​` overlaps with `Source` at screen width 900
-   * *and 32 more*
+   * Text `​ ​` overlaps with `By Sergio Meana` at screen width 1300
+   * Text `​ ​` overlaps with `•` at screen width 1300
+   * Text `​ ​` overlaps with `​ ​` at screen width 1300
+   * Text `​ ​` overlaps with `Source` at screen width 1300
+   * Text `•` overlaps with `​ ​` at screen width 1300
+   * Text `•` overlaps with `Source` at screen width 1300
+   * *and 11 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
