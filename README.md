@@ -91,7 +91,6 @@ Along with quick checks to make sure your pages are looking their best!
 **https://amanda-chn.github.io/NYC-Parks/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `8,229 acres of green space` is too small at 10px
     * Text `7,664 acres of green space` is too small at 9px
@@ -102,14 +101,14 @@ Along with quick checks to make sure your pages are looking their best!
     * Text `7,664 acres of green space` is too small at 9px
     * *and 254 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Community Park` overlaps with `Jointly` at screen width 400
    * Text `Community Park` overlaps with `Operated` at screen width 400
-   * Text `Community Park` overlaps with `Playground` at screen width 400
+   * Text `Nature Area` overlaps with `Parkway` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Playground` overlaps with `Undeveloped` at screen width 400
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
-   * Text `Neighborhood` overlaps with `Managed Sites` at screen width 400
-   * *and 19 more*
+   * Text `Neighborhood` overlaps with `Nature` at screen width 400
+   * Text `Recreational` overlaps with `Neighborhood` at screen width 400
+   * Text `Community Park` overlaps with `Jointly` at screen width 900
+   * *and 16 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://amanda-chn.github.io/spices/**
@@ -630,7 +629,7 @@ No issues found! 🎉
    * Text `1998-99` overlaps with `2004-05` at screen width 400
    * Text `2004-05` overlaps with `2010-11` at screen width 400
    * Text `2010-11` overlaps with `2016-17` at screen width 400
-   * *and 30 more*
+   * *and 38 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
@@ -715,13 +714,13 @@ No issues found! 🎉
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
-   * Text `​ ​` overlaps with `By Sergio Meana` at screen width 1300
-   * Text `​ ​` overlaps with `•` at screen width 1300
-   * Text `​ ​` overlaps with `​ ​` at screen width 1300
-   * Text `​ ​` overlaps with `Source` at screen width 1300
-   * Text `•` overlaps with `​ ​` at screen width 1300
-   * Text `•` overlaps with `Source` at screen width 1300
-   * *and 11 more*
+   * Text `Chart:` overlaps with `​ ​` at screen width 900
+   * Text `Chart:` overlaps with `By Sergio Meana` at screen width 900
+   * Text `​ ​` overlaps with `By Sergio Meana` at screen width 900
+   * Text `​ ​` overlaps with `•` at screen width 900
+   * Text `​ ​` overlaps with `​ ​` at screen width 900
+   * Text `​ ​` overlaps with `Source` at screen width 900
+   * *and 32 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
