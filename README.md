@@ -107,8 +107,8 @@ Along with quick checks to make sure your pages are looking their best!
    * Text `Waterfront Facility` overlaps with `Neighborhood` at screen width 400
    * Text `Neighborhood` overlaps with `Nature` at screen width 400
    * Text `Recreational` overlaps with `Neighborhood` at screen width 400
-   * Text `Community Park` overlaps with `Jointly` at screen width 900
-   * *and 16 more*
+   * Text `Community Park` overlaps with `Operated` at screen width 900
+   * *and 13 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://amanda-chn.github.io/spices/**
