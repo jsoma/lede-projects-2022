@@ -707,6 +707,7 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
    * Text `Chart:` overlaps with `​ ​` at screen width 900
