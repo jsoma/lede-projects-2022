@@ -358,7 +358,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Page not found · GitHub Pages](https://gabrielacarrasquillo.github.io/beachfronts/project-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[2022 is on track to break sargassum production records in the Atlantic Ocean](https://gabrielacarrasquillo.github.io/sargassum-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-full.jpg)|[![medium](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-full.jpg)|[![wide](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-full.jpg)|
+|[2022 is on track to break sargassum production records in the Atlantic Ocean](https://gabrielacarrasquillo.github.io/sargassum-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -372,6 +372,7 @@ No issues found! 🎉
 
 **https://gabrielacarrasquillo.github.io/sargassum-story/**
 
+* Could not access the page - if you moved it, let me know
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -607,7 +608,7 @@ No issues found! 🎉
    * Text `1998-99` overlaps with `2004-05` at screen width 400
    * Text `2004-05` overlaps with `2010-11` at screen width 400
    * Text `2010-11` overlaps with `2016-17` at screen width 400
-   * *and 30 more*
+   * *and 22 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
@@ -690,7 +691,6 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
    * Text `Chart:` overlaps with `​ ​` at screen width 900
