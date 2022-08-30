@@ -372,6 +372,17 @@ No issues found! 🎉
 
 **https://gabrielacarrasquillo.github.io/sargassum-story/**
 
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `desirade.png` missing `alt` tag
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jan` overlaps with `Feb` at screen width 400
+   * Text `Mar` overlaps with `Feb` at screen width 400
+   * Text `Mar` overlaps with `Apr` at screen width 400
+   * Text `May` overlaps with `Jun` at screen width 400
+   * Text `May` overlaps with `Apr` at screen width 400
+   * Text `Jun` overlaps with `Jul` at screen width 400
+   * Text `Jul` overlaps with `Ago` at screen width 400
+   * *and 16 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -607,7 +618,7 @@ No issues found! 🎉
    * Text `1998-99` overlaps with `2004-05` at screen width 400
    * Text `2004-05` overlaps with `2010-11` at screen width 400
    * Text `2010-11` overlaps with `2016-17` at screen width 400
-   * *and 30 more*
+   * *and 22 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
