@@ -67,7 +67,6 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 1.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
