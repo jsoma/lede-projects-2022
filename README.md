@@ -67,6 +67,7 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 1.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
@@ -649,6 +650,7 @@ No issues found! 🎉
 
 * Move `project2/project2.html` into a folder called `project2`, then rename the file `index.html`. That way the project can be found at **/project2** instead of **/project2.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2020-2021` is too small at 8px
     * Text `2020-2021` is too small at 8px
