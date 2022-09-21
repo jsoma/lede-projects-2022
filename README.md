@@ -64,7 +64,6 @@ Along with quick checks to make sure your pages are looking their best!
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `1x\Asset 4.png` missing `alt` tag
     * Image `.\SVG\Asset 4.svg` missing `alt` tag
-    * Image `.\SVG\Asset 1.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -430,6 +429,7 @@ No issues found! 🎉
 
 **https://mcoloncruz.github.io/housing/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://mcoloncruz.github.io/project-femicides/**
