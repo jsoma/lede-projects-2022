@@ -66,6 +66,7 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 4.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
@@ -166,7 +167,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Are New Yorkers swapping Yellow Cab with Citi Bike?](https://ayukaak.github.io/Citibike/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ayukaak.github.io/Citibike_index.html-mobile-thumb.jpg)](screenshots/ayukaak.github.io/Citibike_index.html-mobile-full.jpg)|[![medium](screenshots/ayukaak.github.io/Citibike_index.html-medium-thumb.jpg)](screenshots/ayukaak.github.io/Citibike_index.html-medium-full.jpg)|[![wide](screenshots/ayukaak.github.io/Citibike_index.html-wide-thumb.jpg)](screenshots/ayukaak.github.io/Citibike_index.html-wide-full.jpg)|
+|[Are New Yorkers swapping Yellow Cab with Citi Bike?](https://ayukaak.github.io/Citibike/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Is climate change threatening food security in Tanzania?](https://ayukaak.github.io/ClimateChangeInTanzania/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-mobile-thumb.jpg)](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-mobile-full.jpg)|[![medium](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-medium-thumb.jpg)](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-medium-full.jpg)|[![wide](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-wide-thumb.jpg)](screenshots/ayukaak.github.io/ClimateChangeInTanzania_index.html-wide-full.jpg)|
 
 
@@ -174,6 +175,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://ayukaak.github.io/Citibike/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 
 **https://ayukaak.github.io/ClimateChangeInTanzania/**
@@ -648,6 +650,7 @@ No issues found! 🎉
 
 * Move `project2/project2.html` into a folder called `project2`, then rename the file `index.html`. That way the project can be found at **/project2** instead of **/project2.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2020-2021` is too small at 8px
     * Text `2020-2021` is too small at 8px
@@ -700,6 +703,7 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `By Sergio Meana` overlaps with `Vortexa` at screen width 400
    * Text `Chart:` overlaps with `​ ​` at screen width 900
