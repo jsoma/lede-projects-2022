@@ -661,6 +661,7 @@ No issues found! 🎉
    * Text `0%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
+   * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -688,7 +689,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[fifa-selection-2022/index.html](https://smeana5.github.io/fifa-selection-2022/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-full.jpg)|
-|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -700,7 +701,6 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
-* Could not access the page - if you moved it, let me know
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
