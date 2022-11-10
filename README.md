@@ -506,22 +506,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[obvertɘr is Ben Elliott  I’m an overenthusiastic data herder who spends too much time worrying and/or writing about, among other things, weird books and millionaires standing around outside in their pajamas. In my free time I enjoy collecting hobbies, giving up on personal projects, and frisbeeing my dog into the Shadow Realm.](https://obverter.github.io/complete-games/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[obvertɘr is Ben Elliott  I’m an overenthusiastic data herder who spends too much time worrying and/or writing about, among other things, weird books and millionaires standing around outside in their pajamas. In my free time I enjoy collecting hobbies, giving up on personal projects, and frisbeeing my dog into the Shadow Realm.](https://obverter.github.io/heavy-hitters/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found - Ben Elliott Obverter](https://obverter.github.io/complete-games/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found - Ben Elliott Obverter](https://obverter.github.io/heavy-hitters/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://obverter.github.io/complete-games/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `` missing `alt` tag
 * Could not access the page - if you moved it, let me know
 
 **https://obverter.github.io/heavy-hitters/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `` missing `alt` tag
 * Could not access the page - if you moved it, let me know
 
 
@@ -544,7 +540,6 @@ No issues found! 🎉
 
 **https://onlyandrewn.github.io/tour-de-france/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `NYTFranklin-Bold` font not found, used in 8 text objects. Example: _2010s, 1900s, 2010s_
     * `NYTFranklin-Medium` font not found, used in 8 text objects. Example: _24.94 m.p.h., 15.83 m.p.h., 24.94 m.p.h._
