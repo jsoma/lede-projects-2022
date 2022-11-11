@@ -657,7 +657,6 @@ No issues found! 🎉
    * Text `0%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
-   * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
