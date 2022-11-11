@@ -66,7 +66,6 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 4.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
@@ -599,7 +598,6 @@ No issues found! 🎉
 
 **https://ramanshreya.github.io/beef-exports-and-dairy-industry-in-india/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `1.6 Billion kilograms` is too small at 10px
     * Text `1.2B` is too small at 10px
@@ -610,14 +608,14 @@ No issues found! 🎉
     * Text `2016-17` is too small at 10px
     * *and 13 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Source: Agricultural and Processed Food Products Export Development Authority` overlaps with `​ ​` at screen width 400
-   * Text `Source: Agricultural and Processed Food Products Export Development Authority` overlaps with `​ ​` at screen width 400
-   * Text `​ ​` overlaps with `​ ​` at screen width 400
-   * Text `Source: Department of Animal Husbandry and Dairying` overlaps with `​ ​` at screen width 400
-   * Text `Source: Agricultural and Processed Food Products Export Development Authority` overlaps with `​ ​` at screen width 400
-   * Text `Source: Agricultural and Processed Food Products Export Development Authority` overlaps with `​ ​` at screen width 400
-   * Text `​ ​` overlaps with `​ ​` at screen width 400
-   * *and 7 more*
+   * Text `1950-51` overlaps with `1980-81` at screen width 400
+   * Text `1980-81` overlaps with `1986-87` at screen width 400
+   * Text `1986-87` overlaps with `1992-93` at screen width 400
+   * Text `1992-93` overlaps with `1998-99` at screen width 400
+   * Text `1998-99` overlaps with `2004-05` at screen width 400
+   * Text `2004-05` overlaps with `2010-11` at screen width 400
+   * Text `2010-11` overlaps with `2016-17` at screen width 400
+   * *and 30 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
