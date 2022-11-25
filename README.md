@@ -540,7 +540,6 @@ No issues found! 🎉
 
 **https://onlyandrewn.github.io/tour-de-france/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `NYTFranklin-Bold` font not found, used in 8 text objects. Example: _2010s, 1900s, 2010s_
     * `NYTFranklin-Medium` font not found, used in 8 text objects. Example: _24.94 m.p.h., 15.83 m.p.h., 24.94 m.p.h._
@@ -644,7 +643,6 @@ No issues found! 🎉
 
 * Move `project2/project2.html` into a folder called `project2`, then rename the file `index.html`. That way the project can be found at **/project2** instead of **/project2.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2020-2021` is too small at 8px
     * Text `2020-2021` is too small at 8px
