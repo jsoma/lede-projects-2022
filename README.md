@@ -540,7 +540,6 @@ No issues found! 🎉
 
 **https://onlyandrewn.github.io/tour-de-france/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `NYTFranklin-Bold` font not found, used in 8 text objects. Example: _2010s, 1900s, 2010s_
     * `NYTFranklin-Medium` font not found, used in 8 text objects. Example: _24.94 m.p.h., 15.83 m.p.h., 24.94 m.p.h._
@@ -685,7 +684,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[fifa-selection-2022/index.html](https://smeana5.github.io/fifa-selection-2022/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-full.jpg)|
-|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -697,7 +696,6 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
-* Could not access the page - if you moved it, let me know
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
