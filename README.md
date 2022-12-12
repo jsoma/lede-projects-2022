@@ -66,6 +66,7 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 4.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
@@ -447,7 +448,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Japan on a Tightrope](https://miotomita.github.io/japan-on-a-tightrope/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-mobile-thumb.jpg)](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-mobile-full.jpg)|[![medium](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-medium-thumb.jpg)](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-medium-full.jpg)|[![wide](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-wide-thumb.jpg)](screenshots/miotomita.github.io/japan-on-a-tightrope_index.html-wide-full.jpg)|
-|[Risk of Bird Extinction Remains High](https://miotomita.github.io/Lede_project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Risk of Bird Extinction Remains High](https://miotomita.github.io/Lede_project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/miotomita.github.io/Lede_project1_index.html-mobile-thumb.jpg)](screenshots/miotomita.github.io/Lede_project1_index.html-mobile-full.jpg)|[![medium](screenshots/miotomita.github.io/Lede_project1_index.html-medium-thumb.jpg)](screenshots/miotomita.github.io/Lede_project1_index.html-medium-full.jpg)|[![wide](screenshots/miotomita.github.io/Lede_project1_index.html-wide-thumb.jpg)](screenshots/miotomita.github.io/Lede_project1_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -458,7 +459,6 @@ No issues found! 🎉
 
 **https://miotomita.github.io/Lede_project1/**
 
-* Could not access the page - if you moved it, let me know
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
