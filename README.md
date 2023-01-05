@@ -66,7 +66,6 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `.\SVG\Asset 4.svg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `350` is too small at 7px
     * Text `300` is too small at 7px
@@ -106,12 +105,12 @@ Along with quick checks to make sure your pages are looking their best!
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `mon` overlaps with `mustard seeds` at screen width 400
    * Text `italian sea.` overlaps with `carda-` at screen width 400
-   * Text `mon` overlaps with `mustard seeds` at screen width 900
-   * Text `italian sea.` overlaps with `carda-` at screen width 900
-   * Text `chili powder` overlaps with `cinna-` at screen width 1300
-   * Text `chili powder` overlaps with `mon` at screen width 1300
-   * Text `cinna-` overlaps with `coriander` at screen width 1300
-   * *and 23 more*
+   * Text `chili powder` overlaps with `cinna-` at screen width 900
+   * Text `chili powder` overlaps with `mon` at screen width 900
+   * Text `cinna-` overlaps with `coriander` at screen width 900
+   * Text `carda-` overlaps with `cayenne` at screen width 900
+   * Text `curry leaves` overlaps with `five spice` at screen width 900
+   * *and 47 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Gill Sans Nova"` font not found, used in 257 text objects. Example: _Indian, Middle Eastern, Mexican_
 
@@ -614,7 +613,7 @@ No issues found! 🎉
    * Text `1998-99` overlaps with `2004-05` at screen width 400
    * Text `2004-05` overlaps with `2010-11` at screen width 400
    * Text `2010-11` overlaps with `2016-17` at screen width 400
-   * *and 30 more*
+   * *and 22 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
