@@ -540,7 +540,6 @@ No issues found! 🎉
 
 **https://onlyandrewn.github.io/tour-de-france/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `NYTFranklin-Bold` font not found, used in 8 text objects. Example: _2010s, 1900s, 2010s_
     * `NYTFranklin-Medium` font not found, used in 8 text objects. Example: _24.94 m.p.h., 15.83 m.p.h., 24.94 m.p.h._
@@ -597,6 +596,7 @@ No issues found! 🎉
 
 **https://ramanshreya.github.io/beef-exports-and-dairy-industry-in-india/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `1.6 Billion kilograms` is too small at 10px
     * Text `1.2B` is too small at 10px
@@ -657,6 +657,7 @@ No issues found! 🎉
    * Text `0%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
+   * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
