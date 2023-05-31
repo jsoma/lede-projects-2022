@@ -102,15 +102,16 @@ Along with quick checks to make sure your pages are looking their best!
     * Image `separator.png` missing `alt` tag
     * Image `separator.png` missing `alt` tag
     * Image `separator.png` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `mon` overlaps with `mustard seeds` at screen width 400
-   * Text `italian sea.` overlaps with `carda-` at screen width 400
-   * Text `mon` overlaps with `mustard seeds` at screen width 900
-   * Text `italian sea.` overlaps with `carda-` at screen width 900
-   * Text `chili powder` overlaps with `cinna-` at screen width 1300
-   * Text `chili powder` overlaps with `mon` at screen width 1300
-   * Text `cinna-` overlaps with `coriander` at screen width 1300
-   * *and 23 more*
+   * Text `chili powder` overlaps with `cinna-` at screen width 400
+   * Text `chili powder` overlaps with `mon` at screen width 400
+   * Text `cinna-` overlaps with `coriander` at screen width 400
+   * Text `carda-` overlaps with `cayenne` at screen width 400
+   * Text `curry leaves` overlaps with `five spice` at screen width 400
+   * Text `cayenne` overlaps with `cilantro` at screen width 400
+   * Text `coriander` overlaps with `cumin` at screen width 400
+   * *and 71 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Gill Sans Nova"` font not found, used in 257 text objects. Example: _Indian, Middle Eastern, Mexican_
 
@@ -229,7 +230,7 @@ Along with quick checks to make sure your pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Food Inflation](https://cpohkwan.github.io/food-inflation/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Food Inflation](https://cpohkwan.github.io/food-inflation/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/cpohkwan.github.io/food-inflation_index.html-mobile-thumb.jpg)](screenshots/cpohkwan.github.io/food-inflation_index.html-mobile-full.jpg)|[![medium](screenshots/cpohkwan.github.io/food-inflation_index.html-medium-thumb.jpg)](screenshots/cpohkwan.github.io/food-inflation_index.html-medium-full.jpg)|[![wide](screenshots/cpohkwan.github.io/food-inflation_index.html-wide-thumb.jpg)](screenshots/cpohkwan.github.io/food-inflation_index.html-wide-full.jpg)|
 |[My Project](https://cpohkwan.github.io/johnny_depp_amber_heard/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-mobile-thumb.jpg)](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-mobile-full.jpg)|[![medium](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-medium-thumb.jpg)](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-medium-full.jpg)|[![wide](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-wide-thumb.jpg)](screenshots/cpohkwan.github.io/johnny_depp_amber_heard_index.html-wide-full.jpg)|
 
 
@@ -237,7 +238,6 @@ Along with quick checks to make sure your pages are looking their best!
 
 **https://cpohkwan.github.io/food-inflation/**
 
-* Could not access the page - if you moved it, let me know
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://cpohkwan.github.io/johnny_depp_amber_heard/**
@@ -358,7 +358,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Page not found · GitHub Pages](https://gabrielacarrasquillo.github.io/beachfronts/project-website/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[2022 is on track to break sargassum production records in the Atlantic Ocean](https://gabrielacarrasquillo.github.io/sargassum-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[2022 is on track to break sargassum production records in the Atlantic Ocean](https://gabrielacarrasquillo.github.io/sargassum-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-mobile-full.jpg)|[![medium](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-medium-full.jpg)|[![wide](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-thumb.jpg)](screenshots/gabrielacarrasquillo.github.io/sargassum-story_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -374,7 +374,6 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `desirade.png` missing `alt` tag
-* Could not access the page - if you moved it, let me know
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Jan` overlaps with `Feb` at screen width 400
    * Text `Mar` overlaps with `Feb` at screen width 400
@@ -393,7 +392,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Cool it?! New Yorkers](https://luyi-eve.github.io/cool-it-newyorkers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Cool it?! New Yorkers](https://luyi-eve.github.io/cool-it-newyorkers/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-mobile-thumb.jpg)](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-mobile-full.jpg)|[![medium](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-medium-thumb.jpg)](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-medium-full.jpg)|[![wide](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-wide-thumb.jpg)](screenshots/luyi-eve.github.io/cool-it-newyorkers_index.html-wide-full.jpg)|
 |[Project One](https://luyi-eve.github.io/project-one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luyi-eve.github.io/project-one_index.html-mobile-thumb.jpg)](screenshots/luyi-eve.github.io/project-one_index.html-mobile-full.jpg)|[![medium](screenshots/luyi-eve.github.io/project-one_index.html-medium-thumb.jpg)](screenshots/luyi-eve.github.io/project-one_index.html-medium-full.jpg)|[![wide](screenshots/luyi-eve.github.io/project-one_index.html-wide-thumb.jpg)](screenshots/luyi-eve.github.io/project-one_index.html-wide-full.jpg)|
 
 
@@ -401,7 +400,6 @@ No issues found! 🎉
 
 **https://luyi-eve.github.io/cool-it-newyorkers/**
 
-* Could not access the page - if you moved it, let me know
 * Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 
 **https://luyi-eve.github.io/project-one/**
@@ -647,6 +645,7 @@ No issues found! 🎉
 
 * Move `project2/project2.html` into a folder called `project2`, then rename the file `index.html`. That way the project can be found at **/project2** instead of **/project2.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Simplify URL by removing `project`. For example, `dog-names` instead of `dog-names-project`.
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `2020-2021` is too small at 8px
     * Text `2020-2021` is too small at 8px
@@ -658,9 +657,9 @@ No issues found! 🎉
     * *and 2 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `0%` overlaps with `2020-2021` at screen width 400
+   * Text `11%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
-   * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
@@ -688,7 +687,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[fifa-selection-2022/index.html](https://smeana5.github.io/fifa-selection-2022/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/fifa-selection-2022_index.html-wide-full.jpg)|
-|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Who imports gasoline to Mexico](https://smeana5.github.io/us-mexico-gasoline-trade/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-mobile-full.jpg)|[![medium](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-medium-full.jpg)|[![wide](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-thumb.jpg)](screenshots/smeana5.github.io/us-mexico-gasoline-trade_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -700,7 +699,6 @@ No issues found! 🎉
 
 **https://smeana5.github.io/us-mexico-gasoline-trade/**
 
-* Could not access the page - if you moved it, let me know
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 
