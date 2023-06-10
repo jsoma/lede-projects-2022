@@ -429,6 +429,7 @@ No issues found! 🎉
 
 **https://mcoloncruz.github.io/housing/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths. Also make sure any embeds are the responsive version. [How to view the mobile version](https://www.howtogeek.com/739812/how-to-view-mobile-websites-on-your-computer-in-chrome/)
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://mcoloncruz.github.io/project-femicides/**
@@ -612,7 +613,7 @@ No issues found! 🎉
    * Text `1998-99` overlaps with `2004-05` at screen width 400
    * Text `2004-05` overlaps with `2010-11` at screen width 400
    * Text `2010-11` overlaps with `2016-17` at screen width 400
-   * *and 22 more*
+   * *and 30 more*
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
 
 **https://ramanshreya.github.io/female-chess-players/**
@@ -654,7 +655,6 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `0%` overlaps with `2020-2021` at screen width 400
    * Text `0%` overlaps with `2020-2021` at screen width 900
-   * Text `11%` overlaps with `2020-2021` at screen width 900
    * Text `0%` overlaps with `2020-2021` at screen width 1300
    * Text `11%` overlaps with `2020-2021` at screen width 1300
 * Add a link to the repository with your source code/data/analysis: [tutorial](https://jonathansoma.com/fancy-github/), [example](https://github.com/ilenapeng/stevens-creek) from [a story](https://ilenapeng.github.io/data-studio/stevens-creek/)
